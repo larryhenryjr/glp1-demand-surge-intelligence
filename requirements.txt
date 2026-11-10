@@ -1,0 +1,14 @@
+# Data preparation and tabular modeling.
+pandas>=2.2,<3
+numpy>=1.26,<3
+scipy>=1.13,<2
+scikit-learn>=1.5,<2
+statsmodels>=0.14,<1
+xgboost>=2.1,<4
+# Explainability, visualization, and artifact export.
+shap>=0.46,<1
+matplotlib>=3.9,<4
+seaborn>=0.13,<1
+joblib>=1.4,<2
+# Test runner for reproducibility checks.
+pytest>=8.3,<10
